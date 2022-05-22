@@ -4,7 +4,7 @@ public class RuletaRusa {
 
 	public static void Ruleta() {
 		
-		String[] jugadores = {"Pepe", "Maria Jose", "Juan", "Miguel", "Laura", "Tu"};
+		String[] jugadores = {"Pepe", "Maria Jose", "Juan", "Miguel", "Cristina", "Tu"};
 		
 		int posicion = (int) (Math.random()*5);
 		String temporal = "";
