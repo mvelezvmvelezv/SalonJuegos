@@ -26,7 +26,7 @@ public class MainSalonJuegos {
 				break;
 			case 2:
 				carga();
-				//Metodo Blackjack
+				Blackjack.main();
 				break;
 			case 3:
 				carga();
