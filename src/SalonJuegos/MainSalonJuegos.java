@@ -22,7 +22,7 @@ public class MainSalonJuegos {
 			
 			case 1:
 				carga();
-				//Metodo Hundir la Flota
+				HundirLaFlota.main();
 				break;
 			case 2:
 				carga();
